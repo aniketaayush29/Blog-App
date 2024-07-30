@@ -3,7 +3,8 @@
 }
 
 .title{
-    font-size: 96px;
+    font-size: 90px;
+    font-weight: 300;
 }
 
 .post{
@@ -15,7 +16,7 @@
 
 .imgContainer{
     flex: 1;
-    height: 500px;
+    height: 400px;
     position: relative;
 }
 
