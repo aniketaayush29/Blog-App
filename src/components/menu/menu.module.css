@@ -38,3 +38,26 @@
     gap: 5px;
 }
 
+.category{
+    padding: 3px 8px;
+    border-radius: 10px;
+    font-size: 12px;
+    color: white;
+    width: max-content;
+}
+.category.travel{
+    background-color: orange;
+}
+
+.postTitle{
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--softTextColor);
+}
+.detail{
+    font-size: 12px;
+}
+.date{
+    color: gray;
+}
+
