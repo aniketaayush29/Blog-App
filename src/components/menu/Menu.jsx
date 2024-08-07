@@ -1,9 +1,9 @@
-import React from 'react'
-import styles from "./menu.module.css"
-import Link from 'next/link'
-import Image from 'next/image'
+import React from "react";
+import styles from "./menu.module.css";
+import Link from "next/link";
+import Image from "next/image";
 
-const  Menu = () => {
+const Menu = () => {
   return (
     <div
       className = {styles.container}>
@@ -124,5 +124,4 @@ const  Menu = () => {
   )
 }
 
-
-export default Menu
+export default Menu;
